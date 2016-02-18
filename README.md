@@ -81,6 +81,7 @@ A list of great Ember Resources
 ### Ember Data
 
 * [Toptal's Guide to Ember Data](http://www.toptal.com/emberjs/a-thorough-guide-to-ember-data)
+* [Working with Ember Data, Node, Express and MongoDB](http://ryanchristiani.com/working-with-ember-data-node-express-and-mongodb/)
 
 ### Actions
 
